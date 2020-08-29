@@ -9,5 +9,5 @@ require (
 	github.com/mattn/go-zglob v0.0.1
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
-	github.com/urfave/cli v1.22.2
+	github.com/urfave/cli/v2 v2.2.0
 )
